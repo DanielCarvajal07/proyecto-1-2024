@@ -1,0 +1,14 @@
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\bin\Debug\net8.0\proyecto 1 2024.exe
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\bin\Debug\net8.0\proyecto 1 2024.deps.json
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\bin\Debug\net8.0\proyecto 1 2024.runtimeconfig.json
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\bin\Debug\net8.0\proyecto 1 2024.dll
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\bin\Debug\net8.0\proyecto 1 2024.pdb
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.AssemblyInfoInputs.cache
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.AssemblyInfo.cs
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.csproj.CoreCompileInputs.cache
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.dll
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\refint\proyecto 1 2024.dll
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.pdb
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\proyecto 1 2024.genruntimeconfig.cache
+C:\Users\dacar\Desktop\proyecto 1 2024\proyecto 1 2024\obj\Debug\net8.0\ref\proyecto 1 2024.dll
